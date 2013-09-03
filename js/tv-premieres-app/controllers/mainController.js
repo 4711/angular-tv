@@ -1,4 +1,3 @@
-//    $scope.apiKey = "fa78f33539e31bf6c40ac809eb9797b0";
 app.controller("mainController", function($scope, $http){
 
     $scope.apiKey = "fa78f33539e31bf6c40ac809eb9797b0";
